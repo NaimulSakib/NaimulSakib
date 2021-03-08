@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ... Skill Build Up
 - 🌱 I’m currently learning ... Web Developing by Programming Hero 
 - 👯 I’m looking to collaborate on ... Anything
-- 🤔 I’m looking for help with ... Learning MERN stack from professionals
+- 🤔 I’m looking for help with ... Learn MERN stack from professionals
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... with your comfort line!
 
